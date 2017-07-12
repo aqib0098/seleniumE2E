@@ -22,7 +22,7 @@ By Title=By.id("trainingListForm:trainingexportinfo:j_idt41:filter");
 By Vendor=By.xpath("//*[@id='trainingListForm:trainingexportinfo:j_idt43']/span[1]");
 By Training_Cost=By.xpath("//*[@id='trainingListForm:trainingexportinfo:j_idt45']/span[1]");
 By Training_Start_Date=By.xpath("//*[@id='trainingListForm:trainingexportinfo:j_idt47']/span[1]");
-By Training_End_Date=By.xpath("//*[@id='trainingListForm:trainingexportinfo:j_idt49']/span[1]");
+By Training_End_Date=By.xpath("///*[@id='trainingListForm:trainingexportinfo:j_idt49']/span[1]");
 By Supervisor_Name =By.id("trainingListForm:trainingexportinfo:j_idt51:filter");
 By Accountability_Office =By.id("trainingListForm:trainingexportinfo:j_idt53:filter");
 By Department =By.id("trainingListForm:trainingexportinfo:j_idt55:filter");
