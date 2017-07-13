@@ -193,7 +193,7 @@ WebDriver driver;
 		return driver.findElement(TrainingStartDate);
 		
 	}
-	public WebElement TrainingDateEnd()
+	public WebElement TifrainingDateEnd()
 	{
 		return driver.findElement(TrainingEndDate);
 	}
